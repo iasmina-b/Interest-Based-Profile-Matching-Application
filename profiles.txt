@@ -1,0 +1,9 @@
+Alice,23,Hiking,20,35
+Bella,18,Gaming,20,35
+Erika,17,Fitness,17,20
+Mike,19,Cooking,20,40
+Sam,34,Reading,20,35
+Ana,23,Gaming,20,35
+Brian,26,RemoteUser,0,0
+Nisa,32,RemoteUser,0,0
+Andra,22,RemoteUser,0,0
